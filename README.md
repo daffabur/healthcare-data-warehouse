@@ -62,14 +62,6 @@ Available in `/Dashboard` folder and viewable via Power BI Desktop.
   - Aggregation
   - OLE DB Destination to load into SQL Server
 
-Details in: [`etl/etl-description.md`](etl/etl-description.md)
-
-## 🔎 OLAP Queries
-
-Explore predefined queries in:
-- [`olap-queries/olap-queries.sql`](olap-queries/olap-queries.sql)
-
-With visual results in screenshots.
 
 ---
 

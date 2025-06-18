@@ -63,8 +63,3 @@ Available in `/Dashboard` folder and viewable via Power BI Desktop.
   - OLE DB Destination to load into SQL Server
 
 
----
-
-## 📬 Author
-
-Made with ❤️ for academic purposes.
